@@ -1,0 +1,24 @@
+{
+  "name": "google-library-builder2",
+  "version": "1.0.0",
+  "description": "A MERN application for searching and saving Google book titles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/whittark/google-library-builder2.git"
+  },
+  "keywords": [
+    "MERN",
+    "AJAX",
+    "ReactJS"
+  ],
+  "author": "Whitney Tarkington",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/whittark/google-library-builder2/issues"
+  },
+  "homepage": "https://github.com/whittark/google-library-builder2#readme"
+}
